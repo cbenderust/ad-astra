@@ -1,0 +1,1 @@
+Ad Astra is a program to create and edit star systems, using the rules from GURPS Space 4e. It uses Qt, to make cross-platform usage easier; it is meant to be used on Windows and Linux, and possibly Mac.
